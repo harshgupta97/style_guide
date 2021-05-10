@@ -6,8 +6,6 @@ This guide contain basic language styling guide
 
 ## Table of Contents
 
-<hr />
-
 1. Types
 2. References
 3. Objects
@@ -17,5 +15,3 @@ This guide contain basic language styling guide
 7. Arrow Functions
 
 ## Types
-
-<hr />
