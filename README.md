@@ -1,17 +1,24 @@
-# JavaScript and TypeScript Style Guide
+# Style Guide
 
-A style guide for javascript and typescript language, irrespective of any additional tool(s) and package(s).
+This repo contain doc related to write a clean and maintainable code. Currently only TypeScript and JavaScript are available.
 
-This guide contain basic language styling guide
+## Repo Structure
 
-## Table of Contents
+1. Clean Code
+2. JavaScript
+3. TypeScript
+4. Rules
 
-1. Types
-2. References
-3. Objects
-4. Arrays
-5. Strings
-6. Functions
-7. Arrow Functions
+## Clean Code
 
-## Types
+## JavaScript
+
+A mostly reasonable approach to JavaScript
+
+## TypeScript
+
+A mostly reasonable approach to TypeScript
+
+## Rules
+
+Certain coding rule(s) while working on a project, Irrespective of language to maintain a clean code base. And to prevent coding smell in the project.
